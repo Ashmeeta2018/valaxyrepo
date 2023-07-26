@@ -1,0 +1,117 @@
+1. AWS CCP
+- https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/20208116#overview
+- https://learn.acloud.guru/course/aws--certified-cloud-practitioner/dashboard
+- ineuron
+- https://digitalcloud.training/free-aws-certification-training/
+- https://portal.tutorialsdojo.com/courses/aws-cloud-practitioner-essentials/
+- https://training.resources.awscloud.com/aws-certified-cloud-practitioner-exam-prep
+- Shaping Pixel
+- Cloud Guru
+- 
+
+AWS Certified Solution Architect Associate
+- https://gocloudarchitects.thinkific.com/courses/take/aws-certified-solutions-architect-associate-ebook-1/pdfs/21405116-go-cloud-architects-csa-a
+- https://www.youtube.com/watch?v=uc5C1Zt5tD8
+- https://drive.google.com/file/d/1o9QDnkF62OG8xkPHHy7453HJB9EUuaTX/view
+
+
+
+For Tableau Tutorial
+- TechTech
+- Tab and ChatGpt: https://medium.datadriveninvestor.com/how-physics-applies-to-human-motivation-aaaee94c3c0a
+
+DevOps Installation Instructions
+- file:///C:/Users/ab670/Downloads/DevOps%20Tools%20installation%20Steps.pdf
+
+How to do production level ML deployment
+- https://www.youtube.com/watch?v=O3OjaiWFqFI&t=2226s
+
+Learn Python
+- https://www.programiz.com/python-programming
+
+For Azure DevOps
+- TechTech
+
+Docker Book
+- https://www.omkar.cloud/docker/
+
+Live DevOps Project
+- S3CloudHub: https://www.youtube.com/watch?v=zoi7Ox3MWCc
+
+30daysofDevOps
+- DevShack: https://www.youtube.com/watch?v=9q1DnI8MoIE&list=PLAdTNzDIZj_8BerYwx-rUjmVkj6A9vD9_&index=4
+- DevShack: Create cool github profile: https://www.youtube.com/watch?v=7FHiew0_NLQ
+
+DevOps (4hrs for 10 days)
+- https://www.youtube.com/watch?v=KqbrqdJcA5g&list=PLdmkum4KSum7viBeCq0BQj1qvaKHf_bUT
+
+DevOps
+- Mr. DevOps
+- Sunil-lab: https://www.youtube.com/@sunil-lab2399/featured
+- Automation step by step
+Your DevOps Mentor
+
+DevOps Free resources
+- https://12ft.io/proxy?q=https%3A%2F%2Fmedium.com%2F%40geralexgr%2Fhow-to-become-a-devops-engineer-free-educational-resources-d54df13b2691
+
+Projects
+- https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0
+- https://sunitabachhav2007.hashnode.dev/jenkins-pipeline-for-java-based-application-using-maven-sonarqube-argo-cd-and-kubernetes
+- https://www.youtube.com/watch?v=bV8XOCPBflY
+- https://www.youtube.com/watch?v=8KZi7KBpk0I
+
+
+AWS CCP Notes
+- https://medium.com/@lsrr0801/aws-cloud-practitioner-exam-notes-and-experience-5a98cfad22f8
+- https://digitalcloud.training/free-aws-certification-training/
+
+AWS Certified Solution Architect Associate Exam Guide
+- https://drive.google.com/file/d/1o9QDnkF62OG8xkPHHy7453HJB9EUuaTX/view
+
+Learning DevOps Book
+- https://www.haio.ir/app/uploads/2021/12/Learning-DevOps-The-complete-guide-to-accelerate-collaboration-with-Jenkins-Kubernetes-Terraform-and-Azure-DevOps-by-Mikael-Krief-z-lib.org_.pdf
+
+Linux CheatSheet
+- https://dev.to/acidop/the-ultimate-linux-cheat-code-handbook-hid
+
+Linux
+- Technical Clous Knowledge: https://www.youtube.com/watch?v=CuaA15L2u3Q&list=PL9JhaNh5QrVmMhtOSJ0PRf8v-FWtbJn-K
+
+Data Science:
+- https://dev.to/iarchitsharma/10-free-data-science-certification-courses-by-google-1omh
+
+AWS Certified DevOps Engineer Notes
+- https://dev.to/aws-builders/aws-certified-devops-engineer-professional-content-summary-and-important-notes-3mpn
+
+Kubernetes
+- https://www.youtube.com/watch?v=ASZCy5LDWvw&list=PLnKy4XevqUM8fWHuvpcgHwA8tmmvd5WLZ
+- 100daysofKube: https://100daysofkubernetes.io/start/intro-to-k8s.html
+- 100daysofkube: https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV
+- Kubernetes Free Course: https://kubecampus.io/
+- GitOps: https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/
+- GitOps: https://learning.codefresh.io/course/gitops-with-argo
+- Kubernetes Cheatsheet: https://dev.to/chetanam/must-book-mark-kubernetes-cheat-sheet-1o3a
+- Kubernetes Notes: https://kodekloud.com/wp-content/uploads/2023/03/Kubernetes-Crash-Course-For-PDF.pdf
+
+ChatGPT cheatsheet:
+- https://res.cloudinary.com/dyd911kmh/image/upload/v1678453027/Marketing/Blog/ChatGPT_Cheat_Sheet.pdf
+
+MlOps ZoomCamp
+- https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK
+
+DataTalksClub
+- https://datatalks.club/events.html
+
+dbt
+- https://www.youtube.com/watch?v=5rNquRnNb4E&list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT
+
+Freelancing
+- https://www.turing.com/
+- fevr
+- Upwork
+
+
+
+
+
+
